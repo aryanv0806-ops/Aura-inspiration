@@ -21,7 +21,6 @@ export default function GenerateButton({ onClick, isLoading }) {
         padding: '14px 40px',
         border: '2px solid rgba(255, 255, 255, 0.5)',
         borderRadius: '50px',
-        background: 'rgba(255, 255, 255, 0.15)',
         color: '#ffffff',
         fontFamily: "'Space Grotesk', sans-serif",
         fontSize: '14px',

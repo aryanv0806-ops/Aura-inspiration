@@ -1,7 +1,8 @@
 # 🌟 AURA - Colorful Quote Generator
 
 A stunning, **100% API-free** React application that displays beautiful inspirational quotes with vibrant gradient backgrounds. No external API calls, no authentication errors, completely self-contained!
-
+## Live: 
+https://aura-quotegene.vercel.app/
 ## ✨ Features
 
 - ✅ **No API Dependencies** - All quotes and colors stored locally
